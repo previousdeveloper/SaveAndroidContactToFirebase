@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">SaveAndroidContactToFirebase</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Simple Firebase Save And Query</string>
     <string name="action_settings">Settings</string>
 
 </resources>
